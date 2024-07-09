@@ -1,0 +1,17 @@
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\bin\Debug\net8.0\teste.exe
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\bin\Debug\net8.0\teste.dll
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\bin\Debug\net8.0\teste.pdb
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\teste.csproj.AssemblyReference.cache
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\teste.csproj.Up2Date
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\teste.dll
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\refint\teste.dll
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\jeand\OneDrive\Documentos\dotnetcourse\teste\obj\Debug\net8.0\ref\teste.dll
